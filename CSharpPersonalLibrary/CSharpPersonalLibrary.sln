@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpPersonalLibrary", "CSharpPersonalLibrary\CSharpPersonalLibrary.csproj", "{DEBE75BF-65F7-4258-9570-468387FB6152}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testes", "Testes\Testes.csproj", "{E6A081F3-F451-457B-A2A5-F4F9F174017D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEBE75BF-65F7-4258-9570-468387FB6152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBE75BF-65F7-4258-9570-468387FB6152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEBE75BF-65F7-4258-9570-468387FB6152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEBE75BF-65F7-4258-9570-468387FB6152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A081F3-F451-457B-A2A5-F4F9F174017D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A081F3-F451-457B-A2A5-F4F9F174017D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A081F3-F451-457B-A2A5-F4F9F174017D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A081F3-F451-457B-A2A5-F4F9F174017D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {936A2477-C025-45A4-8989-3870F4821A5D}
+	EndGlobalSection
+EndGlobal
